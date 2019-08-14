@@ -25,3 +25,7 @@ There is also an option to delete the recorded expenses
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42675875/63034444-fdb09e00-bed6-11e9-8986-443cf618fe64.png" width="270" height="570" title="Screenshot 4"> 
 </p>
+
+
+Note:
+The sensitive information in the google-services.json has been hidden. To test this application on your device create a firebase project and save the google-services.json file in android/app/
