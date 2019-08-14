@@ -29,3 +29,5 @@ There is also an option to delete the recorded expenses
 
 Note:
 The sensitive information in the google-services.json has been hidden. To test this application on your device create a firebase project and save the google-services.json file in android/app/
+
+Name the collection as "expenses" in the Firebase realtime database.
