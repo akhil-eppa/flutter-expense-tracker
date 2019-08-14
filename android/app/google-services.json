@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365490532749",
+    "firebase_url": "https://exptrak-923cb.firebaseio.com",
+    "project_id": "exptrak-923cb",
+    "storage_bucket": "exptrak-923cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365490532749:android:f763a0ca71a0ca65",
+        "android_client_info": {
+          "package_name": "com.example.exptrak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365490532749-nokfejgl5qg89o7car2dgvl33hghr08h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O9LwbzJPxIMl-qLcBLEfwQIVp5oGtmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365490532749-nokfejgl5qg89o7car2dgvl33hghr08h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
