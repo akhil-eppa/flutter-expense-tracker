@@ -1,16 +1,16 @@
-# exptrak
 
-A new Flutter application.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42675875/63034417-ee315500-bed6-11e9-8f42-43bbcda78378.png"> 
+</p>
 
-## Getting Started
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42675875/63034420-f12c4580-bed6-11e9-9ccd-f309e082e9c3.png">
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42675875/63034428-f4273600-bed6-11e9-9fd1-9a11c946ac11.png"> 
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42675875/63034444-fdb09e00-bed6-11e9-8986-443cf618fe64.png"> 
+</p>
